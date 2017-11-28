@@ -1,5 +1,5 @@
 EXP_DIR: faster_rcnn_end2end
-LOG_DIR: faster_rcnn_voc
+LOG_DIR: faster_rcnn_progress
 IS_MULTISCALE: False
 NET_NAME: VGGnet
 ANCHOR_SCALES: [8, 16, 32]
